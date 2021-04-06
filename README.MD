@@ -3,6 +3,6 @@
 ### Cabecera H3
 #### Cabecera H4 
 ##### Cabecera H5    
-###### Cbecera H6
+###### Cabecera H6
 
 soy un readme.
